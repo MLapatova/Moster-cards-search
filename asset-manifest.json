@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Moster-cards-search/static/css/main.57aef949.chunk.css",
+    "main.js": "/Moster-cards-search/static/js/main.542cb038.chunk.js",
+    "main.js.map": "/Moster-cards-search/static/js/main.542cb038.chunk.js.map",
+    "runtime-main.js": "/Moster-cards-search/static/js/runtime-main.02e88ae1.js",
+    "runtime-main.js.map": "/Moster-cards-search/static/js/runtime-main.02e88ae1.js.map",
+    "static/js/2.b4309f00.chunk.js": "/Moster-cards-search/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/Moster-cards-search/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/Moster-cards-search/index.html",
+    "precache-manifest.8082b5a6b2401213c5f113f430c979eb.js": "/Moster-cards-search/precache-manifest.8082b5a6b2401213c5f113f430c979eb.js",
+    "service-worker.js": "/Moster-cards-search/service-worker.js",
+    "static/css/main.57aef949.chunk.css.map": "/Moster-cards-search/static/css/main.57aef949.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/Moster-cards-search/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e88ae1.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.57aef949.chunk.css",
+    "static/js/main.542cb038.chunk.js"
+  ]
+}
